@@ -1,0 +1,8 @@
+API
+Application (client) ID   cd93ef76-bcfa-42ee-988a-8d3c50e2e56a
+
+Server
+Application (client) ID 83455139-0057-46b8-b9e6-2c17d6d74411
+
+
+app_secret  lsTSH2FGZ]b]1f-0tt-knPHrw44ExWjg
